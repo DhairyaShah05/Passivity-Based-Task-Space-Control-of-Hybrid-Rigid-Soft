@@ -1,5 +1,5 @@
 
-# Passivity-Based-Task-Space-Control-of-Hybrid-Rigid-Soft
+# Passivity Based Task Space Control of Hybrid Rigid Soft Robots with Parametric Uncertainty
 
 ## Table of Contents
 
